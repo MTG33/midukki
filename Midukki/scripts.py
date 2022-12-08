@@ -5,7 +5,7 @@ I'm <b>{bot}</b> ✨ an advanced telegram Group management
 
 I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
 
-Join <b><a href=http://t.me/Mo_Tech_YT>my news channel</a></b> to get information on all the latest updates
+Join <b><a href=http://t.me/MTG33BOTZ>my news channel</a></b> to get information on all the latest updates
 """
 
 HELP_TXT = """
@@ -36,9 +36,9 @@ We are currently developing this bot, using only the Pyrogram library.
 DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
 
-Dev : [Muhammed](t.me/Pr0fess0r_99)
-Paytm : [Click Here](https://p.paytm.me/xCTH/7yzmtgie)
-  or UPI `motech8129@okaxis`
+Dev : [MTG33](t.me/MTG33)
+CONNECT ME 😀 AND SEND ME COFFEE  : [Click Here](https://t.me/MTG33)
+  or SEND THIS BOT TO OTHERS💥🔥 `t.me/MADARA_RoBot`
 """
 
 STATUS_TXT = """
